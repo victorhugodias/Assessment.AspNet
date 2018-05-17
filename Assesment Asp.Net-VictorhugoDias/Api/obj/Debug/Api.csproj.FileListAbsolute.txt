@@ -1,0 +1,243 @@
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\obj\Debug\Api.csprojResolveAssemblyReference.cache
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\ApplicationInsights.config
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\csc.exe
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\csc.exe.config
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\csc.rsp
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\csi.exe
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\csi.rsp
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\System.AppContext.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\System.Collections.Immutable.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\System.IO.FileSystem.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\vbc.exe
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\vbc.exe.config
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\vbc.rsp
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\VBCSCompiler.exe
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\roslyn\VBCSCompiler.exe.config
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Api.dll.config
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Api.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Api.pdb
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Antlr3.Runtime.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Data.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Domain.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Microsoft.AI.Web.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Microsoft.AI.WindowsServer.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Microsoft.ApplicationInsights.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Microsoft.Web.Infrastructure.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Newtonsoft.Json.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\System.Net.Http.Formatting.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\System.Web.Helpers.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\System.Web.Http.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\System.Web.Http.WebHost.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\System.Web.Mvc.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\System.Web.Optimization.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\System.Web.Razor.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\System.Web.WebPages.Deployment.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\System.Web.WebPages.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\System.Web.WebPages.Razor.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\WebGrease.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Data.pdb
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Data.dll.config
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Domain.pdb
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Domain.dll.config
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Newtonsoft.Json.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\System.Net.Http.Formatting.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\System.Web.Helpers.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\System.Web.Http.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\System.Web.Http.WebHost.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\System.Web.Mvc.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\System.Web.Optimization.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\System.Web.Razor.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\System.Web.WebPages.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\System.Web.WebPages.Deployment.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\System.Web.WebPages.Razor.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Antlr3.Runtime.pdb
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Microsoft.ApplicationInsights.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Microsoft.AI.WindowsServer.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\bin\Microsoft.AI.Web.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\obj\Debug\Api.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Api\obj\Debug\Api.pdb
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\ApplicationInsights.config
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\csc.exe
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\csc.exe.config
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\csc.rsp
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\csi.exe
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\csi.rsp
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\System.AppContext.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\vbc.exe
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\vbc.exe.config
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\vbc.rsp
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Api.dll.config
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Api.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Api.pdb
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Antlr3.Runtime.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Data.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Domain.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Microsoft.AI.Web.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Newtonsoft.Json.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\System.Net.Http.Formatting.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\System.Web.Helpers.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\System.Web.Http.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\System.Web.Http.WebHost.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\System.Web.Mvc.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\System.Web.Optimization.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\System.Web.Razor.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\System.Web.WebPages.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\WebGrease.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Data.pdb
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Data.dll.config
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Domain.pdb
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Domain.dll.config
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Newtonsoft.Json.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\System.Net.Http.Formatting.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\System.Web.Helpers.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\System.Web.Http.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\System.Web.Http.WebHost.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\System.Web.Mvc.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\System.Web.Optimization.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\System.Web.Razor.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\System.Web.WebPages.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Antlr3.Runtime.pdb
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\bin\Microsoft.AI.Web.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\obj\Debug\Api.csprojResolveAssemblyReference.cache
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\obj\Debug\Api.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Api\obj\Debug\Api.pdb
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\obj\Debug\Api.csprojResolveAssemblyReference.cache
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\obj\Debug\Api.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\obj\Debug\Api.pdb
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\ApplicationInsights.config
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\csc.exe
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\csc.exe.config
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\csc.rsp
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\csi.exe
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\csi.rsp
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\System.AppContext.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\vbc.exe
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\vbc.exe.config
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\vbc.rsp
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Api.dll.config
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Api.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Api.pdb
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Antlr3.Runtime.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Data.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Domain.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\EntityFramework.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\EntityFramework.SqlServer.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Microsoft.AI.Web.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Newtonsoft.Json.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\System.Net.Http.Formatting.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\System.Web.Helpers.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\System.Web.Http.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\System.Web.Http.WebHost.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\System.Web.Mvc.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\System.Web.Optimization.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\System.Web.Razor.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\System.Web.WebPages.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\WebGrease.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Data.pdb
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Data.dll.config
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Domain.pdb
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Domain.dll.config
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\EntityFramework.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\EntityFramework.SqlServer.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Newtonsoft.Json.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\System.Net.Http.Formatting.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\System.Web.Helpers.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\System.Web.Http.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\System.Web.Http.WebHost.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\System.Web.Mvc.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\System.Web.Optimization.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\System.Web.Razor.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\System.Web.WebPages.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Antlr3.Runtime.pdb
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\bin\Microsoft.AI.Web.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Api\obj\Debug\Api.csproj.CopyComplete

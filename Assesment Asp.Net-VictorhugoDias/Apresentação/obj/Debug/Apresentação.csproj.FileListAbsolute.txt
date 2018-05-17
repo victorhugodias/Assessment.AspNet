@@ -1,0 +1,305 @@
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\ApplicationInsights.config
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\csc.exe
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\csc.exe.config
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\csc.rsp
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\csi.exe
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\csi.rsp
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\System.AppContext.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\System.Collections.Immutable.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\System.IO.FileSystem.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\vbc.exe
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\vbc.exe.config
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\vbc.rsp
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\VBCSCompiler.exe
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\roslyn\VBCSCompiler.exe.config
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Apresentação.dll.config
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Apresentação.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Apresentação.pdb
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Antlr3.Runtime.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Domain.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\EntityFramework.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\EntityFramework.SqlServer.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.AI.Web.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.AI.WindowsServer.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.ApplicationInsights.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.Owin.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.Owin.Security.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.Owin.Security.Google.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.Web.Infrastructure.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Newtonsoft.Json.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Owin.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\System.Net.Http.Formatting.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\System.Web.Helpers.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\System.Web.Mvc.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\System.Web.Optimization.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\System.Web.Razor.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\System.Web.WebPages.Deployment.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\System.Web.WebPages.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\System.Web.WebPages.Razor.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\WebGrease.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Domain.pdb
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Domain.dll.config
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\System.Net.Http.Formatting.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\System.Web.Helpers.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\System.Web.Mvc.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\System.Web.Optimization.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\System.Web.Razor.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\System.Web.WebPages.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\System.Web.WebPages.Deployment.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\System.Web.WebPages.Razor.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Antlr3.Runtime.pdb
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Newtonsoft.Json.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\EntityFramework.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\EntityFramework.SqlServer.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.Owin.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.Owin.Security.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.Owin.Security.Google.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.ApplicationInsights.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.AI.WindowsServer.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\bin\Microsoft.AI.Web.xml
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\obj\Debug\Apresentação.csprojResolveAssemblyReference.cache
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\obj\Debug\Apresentação.dll
+c:\users\visualstudio\documents\visual studio 2017\Projects\Assesment\Apresentação\obj\Debug\Apresentação.pdb
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\ApplicationInsights.config
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\csc.exe
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\csc.exe.config
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\csc.rsp
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\csi.exe
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\csi.rsp
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\System.AppContext.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\vbc.exe
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\vbc.exe.config
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\vbc.rsp
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\VBCSCompiler.exe
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Apresentação.dll.config
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Apresentação.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Apresentação.pdb
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Antlr3.Runtime.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Domain.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\EntityFramework.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\EntityFramework.SqlServer.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.AI.Web.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.ApplicationInsights.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.Owin.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.Owin.Security.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Newtonsoft.Json.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Owin.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\System.Net.Http.Formatting.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\System.Web.Helpers.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\System.Web.Mvc.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\System.Web.Optimization.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\System.Web.Razor.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\System.Web.WebPages.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\System.Web.WebPages.Razor.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\WebGrease.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Domain.pdb
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Domain.dll.config
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\System.Net.Http.Formatting.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\System.Web.Helpers.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\System.Web.Mvc.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\System.Web.Optimization.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\System.Web.Razor.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\System.Web.WebPages.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\System.Web.WebPages.Razor.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Antlr3.Runtime.pdb
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Newtonsoft.Json.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\EntityFramework.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\EntityFramework.SqlServer.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.Owin.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.Owin.Security.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.ApplicationInsights.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\bin\Microsoft.AI.Web.xml
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\obj\Debug\Apresentação.csprojResolveAssemblyReference.cache
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\obj\Debug\Apresentação.dll
+C:\Users\VisualStudio\Documents\Visual Studio 2017\Projects\Assesment Asp.Net\Apresentação\obj\Debug\Apresentação.pdb
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\ApplicationInsights.config
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\csc.exe
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\csc.exe.config
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\csc.rsp
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\csi.exe
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\csi.rsp
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\System.AppContext.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\vbc.exe
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\vbc.exe.config
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\vbc.rsp
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\VBCSCompiler.exe
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Apresentação.dll.config
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Apresentação.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Apresentação.pdb
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Antlr3.Runtime.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Domain.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\EntityFramework.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\EntityFramework.SqlServer.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.AI.Web.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.ApplicationInsights.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.Owin.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.Owin.Security.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Newtonsoft.Json.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Owin.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\System.Net.Http.Formatting.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\System.Web.Helpers.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\System.Web.Mvc.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\System.Web.Optimization.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\System.Web.Razor.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\System.Web.WebPages.Deployment.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\System.Web.WebPages.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\System.Web.WebPages.Razor.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\WebGrease.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Domain.pdb
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Domain.dll.config
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\System.Net.Http.Formatting.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\System.Web.Helpers.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\System.Web.Mvc.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\System.Web.Optimization.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\System.Web.Razor.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\System.Web.WebPages.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\System.Web.WebPages.Deployment.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\System.Web.WebPages.Razor.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Antlr3.Runtime.pdb
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Newtonsoft.Json.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\EntityFramework.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\EntityFramework.SqlServer.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.Owin.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.Owin.Security.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.ApplicationInsights.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\bin\Microsoft.AI.Web.xml
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\obj\Debug\Apresentação.csprojResolveAssemblyReference.cache
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\obj\Debug\Apresentação.csproj.CoreCompileInputs.cache
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\obj\Debug\Apresentação.csproj.CopyComplete
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\obj\Debug\Apresentação.dll
+C:\Users\victorhbod\Desktop\Assesment Asp.Net-VictorhugoDias\Assesment Asp.Net-VictorhugoDias\Apresentação\obj\Debug\Apresentação.pdb
