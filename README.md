@@ -1,4 +1,4 @@
-# Projeto da faculdade Infnet para avaliar as competências dos alunos.  
+# Projeto da faculdade Infnet  utilizando Asp.Net para avaliar as competências dos alunos.  
 #### Descrição do Projeto.  
   
 O aluno deve criar uma aplicação web com o ASP .NET que permita que os funcionários de uma editora gerenciem os livros e os autores dessa editora.
